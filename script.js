@@ -6,3 +6,4 @@ function findMissing(arr1, arr2) {
 
 // Example
 console.log(findMissing([4, 8, 1, 3, 7], [7, 4, 3, 1])); // Output: 8
+// this is crazy
